@@ -1,3 +1,71 @@
 body {
-  background-color: tomato;
+  background-color: slategray
+  
+}
+
+#date {
+  display: inline-block;
+  margin-left: 100px;
+}
+
+.date {
+  color: rgb(255, 255, 255);
+}
+
+h1 {
+ font-size: 4em;
+ font-family: Arial, Helvetica, sans-serif;
+ text-decoration: underline overline;
+ 
+}
+
+h2 {
+  color: rgb(231, 206, 173);
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+#vert {
+  color: rgb(44, 201, 44);
+  font-weight: bolder;
+  font-family:'Courier New', Courier, monospace
+}
+
+#avec {
+  color: rgb(214, 211, 50);
+  font-weight: bolder;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+
+#valv {
+  color: rgb(72, 72, 226);
+  font-weight: bolder;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#i3 {
+  border-style:ridge;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  border-color: greenyellow;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+#ceva {
+  border-style: dotted;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  border-color: aqua;
+  font-family: Arial, Helvetica, sans-serif
+
+}
+
+#valve {
+  border-style: double;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  border-color: palevioletred;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
